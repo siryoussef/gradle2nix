@@ -49,6 +49,9 @@ kotlin {
     compilerOptions {
         jvmTarget.set(JvmTarget.JVM_1_8)
         optIn.add("kotlin.RequiresOptIn")
+        freeCompilerArgs.addAll(
+            "-Xconsistent-data-class-copy-visibility"
+        )
     }
 }
 
