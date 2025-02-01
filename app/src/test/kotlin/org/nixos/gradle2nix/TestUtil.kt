@@ -1,5 +1,6 @@
 package org.nixos.gradle2nix
 
+import com.github.ajalt.clikt.core.main
 import io.kotest.assertions.fail
 import io.kotest.common.ExperimentalKotest
 import io.kotest.common.KotestInternal

@@ -3,6 +3,7 @@ package org.nixos.gradle2nix
 import org.gradle.api.DefaultTask
 import org.gradle.api.Project
 import org.gradle.api.artifacts.Configuration
+import org.gradle.api.artifacts.component.ModuleComponentIdentifier
 import org.gradle.api.file.FileCollection
 import org.gradle.api.invocation.Gradle
 import org.gradle.api.logging.Logging
@@ -46,7 +47,12 @@ abstract class AbstractResolveAllArtifactsApplier : ResolveAllArtifactsApplier {
                 project.tasks.register(RESOLVE_PROJECT_TASK, ResolveProjectDependenciesTask::class.java) { task ->
                     task.projectName.set(project.path)
                     for (configuration in project.reportableConfigurations) {
-                        task.configurations.from(configuration)
+                        task.configurations.from(
+                            configuration.incoming.artifactView { view ->
+                                view.isLenient = true
+                                view.componentFilter { it is ModuleComponentIdentifier }
+                            }.files
+                        )
                         for (artifactType in artifacts) {
                             task.configurations.from(project.addConfigurationArtifactResolver(configuration, artifactType))
                         }
