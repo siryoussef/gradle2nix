@@ -567,38 +567,38 @@
       "hash": "sha256-00QQSm7mGdplmEA8JdA6qqrw9U6WRv01EkWN9Xyarrg="
     }
   },
-  "org.gradle:gradle-tooling-api:8.12": {
-    "gradle-tooling-api-8.12.jar": {
-      "url": "https://repo.gradle.org/gradle/libs-releases/org/gradle/gradle-tooling-api/8.12/gradle-tooling-api-8.12.jar",
-      "hash": "sha256-E83CJbXoqfUumQ1GWNnmPGrz8DAc0VWv2Ulpm5UP5Mk="
+  "org.gradle:gradle-tooling-api:8.13": {
+    "gradle-tooling-api-8.13.jar": {
+      "url": "https://repo.gradle.org/gradle/libs-releases/org/gradle/gradle-tooling-api/8.13/gradle-tooling-api-8.13.jar",
+      "hash": "sha256-3oBit6r50rNd8cYtuwCXjFtBwFwMMOXy/Zz1kATw1dw="
     },
-    "gradle-tooling-api-8.12.module": {
-      "url": "https://repo.gradle.org/gradle/libs-releases/org/gradle/gradle-tooling-api/8.12/gradle-tooling-api-8.12.module",
-      "hash": "sha256-WUNWwl7AANbkn6vxhnKU9CQhh73Ay3DaCSoZkHlP/lQ="
+    "gradle-tooling-api-8.13.module": {
+      "url": "https://repo.gradle.org/gradle/libs-releases/org/gradle/gradle-tooling-api/8.13/gradle-tooling-api-8.13.module",
+      "hash": "sha256-x0zW6v/6m/u9BTCfD9eKyeCHDYBbuVKo9mPABkuGQtQ="
     },
-    "gradle-tooling-api-8.12.pom": {
-      "url": "https://repo.gradle.org/gradle/libs-releases/org/gradle/gradle-tooling-api/8.12/gradle-tooling-api-8.12.pom",
-      "hash": "sha256-TOuw8aZAUe7Q69OhyGG5VMkUAhMYOFFoRX5Ztgz1SKI="
+    "gradle-tooling-api-8.13.pom": {
+      "url": "https://repo.gradle.org/gradle/libs-releases/org/gradle/gradle-tooling-api/8.13/gradle-tooling-api-8.13.pom",
+      "hash": "sha256-5q1vZVgMqhOaE9Gg+WaPu3W7flYqnw6EEixjjrWyz4Q="
     }
   },
-  "org.gradle.kotlin:gradle-kotlin-dsl-plugins:5.1.2": {
-    "gradle-kotlin-dsl-plugins-5.1.2.jar": {
-      "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/5.1.2/gradle-kotlin-dsl-plugins-5.1.2.jar",
-      "hash": "sha256-tYw+XDWgAln9QC3r89pHqjrQhcP0vnL5AuoSYbNQGa4="
+  "org.gradle.kotlin:gradle-kotlin-dsl-plugins:5.2.0": {
+    "gradle-kotlin-dsl-plugins-5.2.0.jar": {
+      "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/5.2.0/gradle-kotlin-dsl-plugins-5.2.0.jar",
+      "hash": "sha256-SKlcMPRlehDfloYC01LJ2GTZemYholfoFQjINWDE/q4="
     },
-    "gradle-kotlin-dsl-plugins-5.1.2.module": {
-      "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/5.1.2/gradle-kotlin-dsl-plugins-5.1.2.module",
-      "hash": "sha256-CPnVxzwOvolk4aq3z59G93inhCcxnZJ52ZKoRBPIXPM="
+    "gradle-kotlin-dsl-plugins-5.2.0.module": {
+      "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/5.2.0/gradle-kotlin-dsl-plugins-5.2.0.module",
+      "hash": "sha256-fxo3x8yLU7tmBAqrbAacidiqWOJ/+nH3s2HGROtaD7A="
     },
-    "gradle-kotlin-dsl-plugins-5.1.2.pom": {
-      "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/5.1.2/gradle-kotlin-dsl-plugins-5.1.2.pom",
-      "hash": "sha256-Y4Th1GwfBKl4Go/Pl6nFQ5YPNNoKZ/XQI2x8EubcvqU="
+    "gradle-kotlin-dsl-plugins-5.2.0.pom": {
+      "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/5.2.0/gradle-kotlin-dsl-plugins-5.2.0.pom",
+      "hash": "sha256-uB9ZcQ4lOEW0+Pbe27BWPWfD5/UPg7AiQZXjo2GAtH8="
     }
   },
-  "org.gradle.kotlin.kotlin-dsl:org.gradle.kotlin.kotlin-dsl.gradle.plugin:5.1.2": {
-    "org.gradle.kotlin.kotlin-dsl.gradle.plugin-5.1.2.pom": {
-      "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/kotlin-dsl/org.gradle.kotlin.kotlin-dsl.gradle.plugin/5.1.2/org.gradle.kotlin.kotlin-dsl.gradle.plugin-5.1.2.pom",
-      "hash": "sha256-1JPwqwDRfMB4Zduo3oQAo5CJ1SpxzkFtyQOlEsXe1V0="
+  "org.gradle.kotlin.kotlin-dsl:org.gradle.kotlin.kotlin-dsl.gradle.plugin:5.2.0": {
+    "org.gradle.kotlin.kotlin-dsl.gradle.plugin-5.2.0.pom": {
+      "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/kotlin-dsl/org.gradle.kotlin.kotlin-dsl.gradle.plugin/5.2.0/org.gradle.kotlin.kotlin-dsl.gradle.plugin-5.2.0.pom",
+      "hash": "sha256-pXu0ObpCYKJW8tYIRx1wgRiQd6Ck3fsCjdGBe+W8Ejc="
     }
   },
   "org.jdom:jdom2:2.0.6.1": {
