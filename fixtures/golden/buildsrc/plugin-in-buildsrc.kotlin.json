@@ -57,24 +57,24 @@
       "hash": "sha256-OFbj/NFpUC1fEv4kUmBOv2x8Al8VZWv6VY6pntKdc+o="
     }
   },
-  "org.gradle.kotlin:gradle-kotlin-dsl-plugins:5.1.2": {
-    "gradle-kotlin-dsl-plugins-5.1.2.jar": {
-      "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/5.1.2/gradle-kotlin-dsl-plugins-5.1.2.jar",
-      "hash": "sha256-tYw+XDWgAln9QC3r89pHqjrQhcP0vnL5AuoSYbNQGa4="
+  "org.gradle.kotlin:gradle-kotlin-dsl-plugins:5.2.0": {
+    "gradle-kotlin-dsl-plugins-5.2.0.jar": {
+      "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/5.2.0/gradle-kotlin-dsl-plugins-5.2.0.jar",
+      "hash": "sha256-SKlcMPRlehDfloYC01LJ2GTZemYholfoFQjINWDE/q4="
     },
-    "gradle-kotlin-dsl-plugins-5.1.2.module": {
-      "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/5.1.2/gradle-kotlin-dsl-plugins-5.1.2.module",
-      "hash": "sha256-CPnVxzwOvolk4aq3z59G93inhCcxnZJ52ZKoRBPIXPM="
+    "gradle-kotlin-dsl-plugins-5.2.0.module": {
+      "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/5.2.0/gradle-kotlin-dsl-plugins-5.2.0.module",
+      "hash": "sha256-fxo3x8yLU7tmBAqrbAacidiqWOJ/+nH3s2HGROtaD7A="
     },
-    "gradle-kotlin-dsl-plugins-5.1.2.pom": {
-      "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/5.1.2/gradle-kotlin-dsl-plugins-5.1.2.pom",
-      "hash": "sha256-Y4Th1GwfBKl4Go/Pl6nFQ5YPNNoKZ/XQI2x8EubcvqU="
+    "gradle-kotlin-dsl-plugins-5.2.0.pom": {
+      "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/gradle-kotlin-dsl-plugins/5.2.0/gradle-kotlin-dsl-plugins-5.2.0.pom",
+      "hash": "sha256-uB9ZcQ4lOEW0+Pbe27BWPWfD5/UPg7AiQZXjo2GAtH8="
     }
   },
-  "org.gradle.kotlin.kotlin-dsl:org.gradle.kotlin.kotlin-dsl.gradle.plugin:5.1.2": {
-    "org.gradle.kotlin.kotlin-dsl.gradle.plugin-5.1.2.pom": {
-      "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/kotlin-dsl/org.gradle.kotlin.kotlin-dsl.gradle.plugin/5.1.2/org.gradle.kotlin.kotlin-dsl.gradle.plugin-5.1.2.pom",
-      "hash": "sha256-1JPwqwDRfMB4Zduo3oQAo5CJ1SpxzkFtyQOlEsXe1V0="
+  "org.gradle.kotlin.kotlin-dsl:org.gradle.kotlin.kotlin-dsl.gradle.plugin:5.2.0": {
+    "org.gradle.kotlin.kotlin-dsl.gradle.plugin-5.2.0.pom": {
+      "url": "https://plugins.gradle.org/m2/org/gradle/kotlin/kotlin-dsl/org.gradle.kotlin.kotlin-dsl.gradle.plugin/5.2.0/org.gradle.kotlin.kotlin-dsl.gradle.plugin-5.2.0.pom",
+      "hash": "sha256-pXu0ObpCYKJW8tYIRx1wgRiQd6Ck3fsCjdGBe+W8Ejc="
     }
   },
   "org.jetbrains:annotations:13.0": {
